@@ -1,0 +1,8 @@
+
+
+int main{
+int a,c,d;
+a=5;
+c=6;
+d=a+c;
+
